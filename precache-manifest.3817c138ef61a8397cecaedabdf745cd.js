@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86a88c544f34841b0dfc8c1e88579617",
+    "revision": "286865a4faef9dbc2cd420137b0c100b",
     "url": "/skycafe/index.html"
   },
   {
-    "revision": "8b84c445cf716ee3ae12",
+    "revision": "10cf7e48cd8059b27e44",
     "url": "/skycafe/static/css/main.e688c02e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skycafe/static/js/2.d53fe6fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b84c445cf716ee3ae12",
-    "url": "/skycafe/static/js/main.779d25f7.chunk.js"
+    "revision": "10cf7e48cd8059b27e44",
+    "url": "/skycafe/static/js/main.558e1232.chunk.js"
   },
   {
     "revision": "f1e6f09024676bf14ee9",
