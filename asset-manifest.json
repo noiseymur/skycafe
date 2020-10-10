@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/skycafe/static/css/main.e688c02e.chunk.css",
+    "main.js": "/skycafe/static/js/main.779d25f7.chunk.js",
+    "main.js.map": "/skycafe/static/js/main.779d25f7.chunk.js.map",
+    "runtime-main.js": "/skycafe/static/js/runtime-main.a0157901.js",
+    "runtime-main.js.map": "/skycafe/static/js/runtime-main.a0157901.js.map",
+    "static/js/2.d53fe6fb.chunk.js": "/skycafe/static/js/2.d53fe6fb.chunk.js",
+    "static/js/2.d53fe6fb.chunk.js.map": "/skycafe/static/js/2.d53fe6fb.chunk.js.map",
+    "index.html": "/skycafe/index.html",
+    "precache-manifest.7e0087f7b990a6f9297d9fb1f04202ac.js": "/skycafe/precache-manifest.7e0087f7b990a6f9297d9fb1f04202ac.js",
+    "service-worker.js": "/skycafe/service-worker.js",
+    "static/css/main.e688c02e.chunk.css.map": "/skycafe/static/css/main.e688c02e.chunk.css.map",
+    "static/js/2.d53fe6fb.chunk.js.LICENSE.txt": "/skycafe/static/js/2.d53fe6fb.chunk.js.LICENSE.txt",
+    "static/media/Circles.css": "/skycafe/static/media/pie-circle.a5d80e44.svg",
+    "static/media/Backdrop.css": "/skycafe/static/media/right-pic.61933649.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0157901.js",
+    "static/js/2.d53fe6fb.chunk.js",
+    "static/css/main.e688c02e.chunk.css",
+    "static/js/main.779d25f7.chunk.js"
+  ]
+}
