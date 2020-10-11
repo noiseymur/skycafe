@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/skycafe/static/css/main.7be674da.chunk.css",
-    "main.js": "/skycafe/static/js/main.bb175e37.chunk.js",
-    "main.js.map": "/skycafe/static/js/main.bb175e37.chunk.js.map",
+    "main.js": "/skycafe/static/js/main.2bd63a62.chunk.js",
+    "main.js.map": "/skycafe/static/js/main.2bd63a62.chunk.js.map",
     "runtime-main.js": "/skycafe/static/js/runtime-main.a0157901.js",
     "runtime-main.js.map": "/skycafe/static/js/runtime-main.a0157901.js.map",
     "static/js/2.7a321831.chunk.js": "/skycafe/static/js/2.7a321831.chunk.js",
     "static/js/2.7a321831.chunk.js.map": "/skycafe/static/js/2.7a321831.chunk.js.map",
     "index.html": "/skycafe/index.html",
-    "precache-manifest.9f0fbede9bc1d0af943f6ae36470b8b0.js": "/skycafe/precache-manifest.9f0fbede9bc1d0af943f6ae36470b8b0.js",
+    "precache-manifest.ef560c6a710b6ab6a278c633a6714908.js": "/skycafe/precache-manifest.ef560c6a710b6ab6a278c633a6714908.js",
     "service-worker.js": "/skycafe/service-worker.js",
     "static/css/main.7be674da.chunk.css.map": "/skycafe/static/css/main.7be674da.chunk.css.map",
     "static/js/2.7a321831.chunk.js.LICENSE.txt": "/skycafe/static/js/2.7a321831.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.a0157901.js",
     "static/js/2.7a321831.chunk.js",
     "static/css/main.7be674da.chunk.css",
-    "static/js/main.bb175e37.chunk.js"
+    "static/js/main.2bd63a62.chunk.js"
   ]
 }
