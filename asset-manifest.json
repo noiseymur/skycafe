@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/skycafe/static/css/main.e688c02e.chunk.css",
-    "main.js": "/skycafe/static/js/main.558e1232.chunk.js",
-    "main.js.map": "/skycafe/static/js/main.558e1232.chunk.js.map",
+    "main.css": "/skycafe/static/css/main.ab22a15d.chunk.css",
+    "main.js": "/skycafe/static/js/main.fdd6cfd6.chunk.js",
+    "main.js.map": "/skycafe/static/js/main.fdd6cfd6.chunk.js.map",
     "runtime-main.js": "/skycafe/static/js/runtime-main.a0157901.js",
     "runtime-main.js.map": "/skycafe/static/js/runtime-main.a0157901.js.map",
-    "static/js/2.d53fe6fb.chunk.js": "/skycafe/static/js/2.d53fe6fb.chunk.js",
-    "static/js/2.d53fe6fb.chunk.js.map": "/skycafe/static/js/2.d53fe6fb.chunk.js.map",
+    "static/js/2.73dd5247.chunk.js": "/skycafe/static/js/2.73dd5247.chunk.js",
+    "static/js/2.73dd5247.chunk.js.map": "/skycafe/static/js/2.73dd5247.chunk.js.map",
     "index.html": "/skycafe/index.html",
-    "precache-manifest.3817c138ef61a8397cecaedabdf745cd.js": "/skycafe/precache-manifest.3817c138ef61a8397cecaedabdf745cd.js",
+    "precache-manifest.7229bfd0f0c56321b684c4f30aac0c02.js": "/skycafe/precache-manifest.7229bfd0f0c56321b684c4f30aac0c02.js",
     "service-worker.js": "/skycafe/service-worker.js",
-    "static/css/main.e688c02e.chunk.css.map": "/skycafe/static/css/main.e688c02e.chunk.css.map",
-    "static/js/2.d53fe6fb.chunk.js.LICENSE.txt": "/skycafe/static/js/2.d53fe6fb.chunk.js.LICENSE.txt",
+    "static/css/main.ab22a15d.chunk.css.map": "/skycafe/static/css/main.ab22a15d.chunk.css.map",
+    "static/js/2.73dd5247.chunk.js.LICENSE.txt": "/skycafe/static/js/2.73dd5247.chunk.js.LICENSE.txt",
     "static/media/Circles.css": "/skycafe/static/media/pie-circle.a5d80e44.svg",
-    "static/media/Backdrop.css": "/skycafe/static/media/right-pic.61933649.jpg"
+    "static/media/Backdrop.css": "/skycafe/static/media/right-pic.61933649.jpg",
+    "static/media/pic1.jpg": "/skycafe/static/media/pic1.2d7b14df.jpg",
+    "static/media/pic2.jpg": "/skycafe/static/media/pic2.7c73fdad.jpg",
+    "static/media/pic3.jpg": "/skycafe/static/media/pic3.4b267b1a.jpg",
+    "static/media/pic4.jpg": "/skycafe/static/media/pic4.e7c01a8b.jpg",
+    "static/media/pic5.jpg": "/skycafe/static/media/pic5.8a90eced.jpg",
+    "static/media/pic6.jpg": "/skycafe/static/media/pic6.2d4c1c88.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a0157901.js",
-    "static/js/2.d53fe6fb.chunk.js",
-    "static/css/main.e688c02e.chunk.css",
-    "static/js/main.558e1232.chunk.js"
+    "static/js/2.73dd5247.chunk.js",
+    "static/css/main.ab22a15d.chunk.css",
+    "static/js/main.fdd6cfd6.chunk.js"
   ]
 }
