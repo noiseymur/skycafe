@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/skycafe/static/css/main.7be674da.chunk.css",
-    "main.js": "/skycafe/static/js/main.2bd63a62.chunk.js",
-    "main.js.map": "/skycafe/static/js/main.2bd63a62.chunk.js.map",
+    "main.css": "/skycafe/static/css/main.34b8b60b.chunk.css",
+    "main.js": "/skycafe/static/js/main.315ab5fc.chunk.js",
+    "main.js.map": "/skycafe/static/js/main.315ab5fc.chunk.js.map",
     "runtime-main.js": "/skycafe/static/js/runtime-main.a0157901.js",
     "runtime-main.js.map": "/skycafe/static/js/runtime-main.a0157901.js.map",
     "static/js/2.7a321831.chunk.js": "/skycafe/static/js/2.7a321831.chunk.js",
     "static/js/2.7a321831.chunk.js.map": "/skycafe/static/js/2.7a321831.chunk.js.map",
     "index.html": "/skycafe/index.html",
-    "precache-manifest.ef560c6a710b6ab6a278c633a6714908.js": "/skycafe/precache-manifest.ef560c6a710b6ab6a278c633a6714908.js",
+    "precache-manifest.f30e583f3ae318c00ae84aaf8d858e7f.js": "/skycafe/precache-manifest.f30e583f3ae318c00ae84aaf8d858e7f.js",
     "service-worker.js": "/skycafe/service-worker.js",
-    "static/css/main.7be674da.chunk.css.map": "/skycafe/static/css/main.7be674da.chunk.css.map",
+    "static/css/main.34b8b60b.chunk.css.map": "/skycafe/static/css/main.34b8b60b.chunk.css.map",
     "static/js/2.7a321831.chunk.js.LICENSE.txt": "/skycafe/static/js/2.7a321831.chunk.js.LICENSE.txt",
     "static/media/Circles.css": "/skycafe/static/media/pie-circle.a5d80e44.svg",
-    "static/media/Backdrop.css": "/skycafe/static/media/right-pic.61933649.jpg",
-    "static/media/pic1.jpg": "/skycafe/static/media/pic1.2d7b14df.jpg",
-    "static/media/pic2.jpg": "/skycafe/static/media/pic2.7c73fdad.jpg",
-    "static/media/pic3.jpg": "/skycafe/static/media/pic3.4b267b1a.jpg",
-    "static/media/pic4.jpg": "/skycafe/static/media/pic4.e7c01a8b.jpg",
-    "static/media/pic5.jpg": "/skycafe/static/media/pic5.8a90eced.jpg",
-    "static/media/pic6.jpg": "/skycafe/static/media/pic6.2d4c1c88.jpg"
+    "static/media/Backdrop.css": "/skycafe/static/media/right-pic.506c8939.jpg",
+    "static/media/pic1.jpg": "/skycafe/static/media/pic1.0713b236.jpg",
+    "static/media/pic2.jpg": "/skycafe/static/media/pic2.c5f18327.jpg",
+    "static/media/pic3.jpg": "/skycafe/static/media/pic3.7b7207a3.jpg",
+    "static/media/pic4.jpg": "/skycafe/static/media/pic4.0317e8ee.jpg",
+    "static/media/pic5.jpg": "/skycafe/static/media/pic5.2e78a08b.jpg",
+    "static/media/pic6.jpg": "/skycafe/static/media/pic6.0233e464.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a0157901.js",
     "static/js/2.7a321831.chunk.js",
-    "static/css/main.7be674da.chunk.css",
-    "static/js/main.2bd63a62.chunk.js"
+    "static/css/main.34b8b60b.chunk.css",
+    "static/js/main.315ab5fc.chunk.js"
   ]
 }
